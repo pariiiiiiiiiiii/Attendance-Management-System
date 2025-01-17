@@ -115,7 +115,7 @@ attendance-system/
 ├── attendance.db         # SQLite database file (auto-generated)
 └── README.md             # Project documentation
 
-
+You are invited to fork this repository, make enhancements, and submit pull requests. Your contributions are appreciated!
 
 
 
